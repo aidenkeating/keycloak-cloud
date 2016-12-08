@@ -1,9 +1,8 @@
 {
   "realm": "Demo",
-  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvG7rQXsf53D12NAiHg18jQd+xPB7FvTkMkpki7yrsyS2J9QzEKltNmGJ/MxmJMXNDI0hh2V+5E88LJ/syrkeCZdfJoEhhDZ8u7cTqZwZ5yekyFp7ropifaaBuNvM1igoy8KKx380dY2ELmAbOyKeMAG8P5ewWi6QlaRzL2vZ0qxgIZ5C2NUKtWgyEO97J0mlJ5C9TXuQR28H8YNK6WCW5Kfg6odSVwmwRL1i+EAdEbFlEYHU1eeZyOP3BoBfrO81mk97CKprboyxvuQiLTbJQ42yHi6HtPg0/+xES7LwMW3ZBN22XMA1O/2de8tLbx9dvlOn+winResPUusgs6C+8QIDAQAB",
+  "realm-public-key": "MIIClzCCAX8CBgFYzg41zjANBgkqhkiG9w0BAQsFADAPMQ0wCwYDVQQDDAREZW1vMB4XDTE2MTIwNTA4MTQ0N1oXDTI2MTIwNTA4MTYyN1owDzENMAsGA1UEAwwERGVtbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL92enUy2/6J/+i+i6G49vm8uQmS1WT8PVKftMI6pMid2f31GTJUhAknmIWDebuiBbswSAn+ojHdYZfVphScm3TjAahNhBz4+yMCulJXxM5Ozwwp/yeaPoWauHa54+Nc8yqMDbsHkQ4+fU/JbAUnhdVRQLm3GeLPbtgRP9Wd1mJ1Jqi5+pxEyAkUWJcuG5ZObVEL0ThmtvNP9L1dkvSl3bJyjFIEp7Zz4yGt4sPVL0ncvp5lV/KYRZIqNRrmVHCo+rE86nUDXYFea7TJpeV5kiWOFlrWUpz+qYOf8nUMFP4v9io8W9JMA1aBIMNp/A7KRBu6af51QEggDbBlM4YESJ0CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAmVJkDxkAgisDUuMHEwQY2qZidd8zY+HQxkxy2U9V2T+84IgNFh/DyJqBQGMnmQ3QeqXoAo+qCRq9obrkllERe8CsxumDxqO4kvFXP6xZQsec3UTujvh30G3YEOVpo7MxO99IMUmw5LI+8Zw/Qx2YxR23r0wAyE5tsIDEGB5sBYUFmOXnPWDtL/FsC5PxuFzQ15VDrBAwqd/o9XfKLBk++pXSNlKEzI75HkKO7ZIIv2tsVWmsdBVqz30t8QeV6zmbi/TUY363aG4QS4g1AHFw0TL1DL52lxUxQ78w9N/A2PZwnq90TbktZSpRwWunn0iZ4IvSxk7vff7nCVmRCirkew==",
   "bearer-only": true,
-  "auth-server-url": "https://keycloak-jimwuzhere.rhcloud.com/auth",
+  "auth-server-url": "https://keycloak-ckrych.rhcloud.com/auth",
   "ssl-required": "external",
-  "resource": "RHMAPKeycloakDemo",
-  "use-resource-role-mappings": true
+  "resource": "RHMAPKeycloakDemo"
 }
