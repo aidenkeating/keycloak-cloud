@@ -7,7 +7,7 @@
     "express": "~4.13.0",
     "express-session": "^1.13.0",
     "fh-mbaas-api": "5.11.0",
-    "keycloak-connect": "git+https://github.com/keycloak/keycloak-nodejs-connect.git#83bea17",
+    "keycloak-connect": "git+https://github.com/keycloak/keycloak-nodejs-connect.git#v2.3.0",
     "request": "~2.40.0"
   },
   "devDependencies": {
